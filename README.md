@@ -14,7 +14,7 @@ A fully responsive **Calculator** built using **HTML5, CSS3, and JavaScript**. T
 ## 📂 Installation  
 1. Clone the repository:  
    ```bash
-   git clone [Your GitHub Repo Link]
+   git clone https://github.com/Princegoswami160/Calculator.git
 Open index.html in your browser.
 
 🛠️ Technologies Used
