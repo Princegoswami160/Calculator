@@ -32,6 +32,7 @@ Feel free to contribute! Fork the repo and submit a pull request.
 
 📩 Connect with Me
 💼 LinkedIn: [ https://www.linkedin.com/in/prince-kumar-giri-450114331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ]
+
 🌐 Portfolio: [Your Website Link]
 
 ⭐ Show Some Love
