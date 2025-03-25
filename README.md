@@ -25,7 +25,7 @@ CSS3 – Styling and responsiveness
 JavaScript – Functionality & calculations
 
 📌 Screenshots
-(Add screenshots here if needed)
+![Screenshot (37)](https://github.com/user-attachments/assets/8b6ada82-ea58-45a7-aa9d-e3cd97c884ac)
 
 🤝 Contributing
 Feel free to contribute! Fork the repo and submit a pull request.
