@@ -27,6 +27,9 @@ JavaScript – Functionality & calculations
 📌 Screenshots
 ![Screenshot (37)](https://github.com/user-attachments/assets/8b6ada82-ea58-45a7-aa9d-e3cd97c884ac)
 
+![sc5](https://github.com/user-attachments/assets/1002421f-f878-4fcb-aa64-ffbf4319171e)
+
+
 🤝 Contributing
 Feel free to contribute! Fork the repo and submit a pull request.
 
